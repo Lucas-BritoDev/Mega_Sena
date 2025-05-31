@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "megasena"
+version = "0.1.0"
+description = "Programa que gera e confere os números da mega sena"
+authors = ["Lucas-Brito-Dev <lucasbrito_dev@outlook.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.44.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
