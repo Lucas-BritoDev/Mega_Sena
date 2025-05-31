@@ -51,9 +51,6 @@ O aplicativo permite que você:
     * Clique em "Conferir" (ou o botão correspondente).
     * Veja o resultado detalhado de acertos para cada aposta!
 
-## ⚖️ Disclaimer
-
-Este aplicativo foi criado para fins de entretenimento e para facilitar a conferência de apostas. A conferência oficial dos resultados da Mega da Virada deve ser sempre realizada através dos canais oficiais da Caixa Econômica Federal. Não nos responsabilizamos por quaisquer divergências ou perdas. Jogue com responsabilidade!
 
 ## 💡 Possíveis Melhorias Futuras
 
