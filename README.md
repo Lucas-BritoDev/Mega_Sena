@@ -10,7 +10,7 @@ Este projeto é um aplicativo web simples, desenvolvido com **Python** e **Strea
 * Mostrar quantos pontos você fez (e se a aposentadoria antecipada chegou! 😅).
 
 **🔗 Acesse o App Online:**
-[**Clique aqui para testar o Gerador e Conferidor da Mega da Virada!**](https://lnkd.in/dKiP8QeF)
+[**Clique aqui para testar o Gerador e Conferidor da Mega da Virada!**](https://app-megasena.streamlit.app/)
 
 ---
 
